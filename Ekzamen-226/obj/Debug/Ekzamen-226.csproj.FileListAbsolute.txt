@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Ekzamen-226\bin\Debug\Ekzamen-226.exe.config
+C:\Users\admin\Desktop\Ekzamen-226\bin\Debug\Ekzamen-226.exe
+C:\Users\admin\Desktop\Ekzamen-226\bin\Debug\Ekzamen-226.pdb
+C:\Users\admin\Desktop\Ekzamen-226\obj\Debug\Ekzamen-226.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Ekzamen-226\obj\Debug\Ekzamen-226.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Ekzamen-226\obj\Debug\Ekzamen_226.Form1.resources
+C:\Users\admin\Desktop\Ekzamen-226\obj\Debug\Ekzamen_226.Properties.Resources.resources
+C:\Users\admin\Desktop\Ekzamen-226\obj\Debug\Ekzamen-226.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Ekzamen-226\obj\Debug\Ekzamen-226.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Ekzamen-226\obj\Debug\Ekzamen-226.exe
+C:\Users\admin\Desktop\Ekzamen-226\obj\Debug\Ekzamen-226.pdb
+C:\Users\admin\Desktop\Ekzamen-226\obj\Debug\Ekzamen_226.AdminForm.resources
+C:\Users\admin\Desktop\Ekzamen-226\obj\Debug\Ekzamen_226.ticketForm.resources
+C:\Users\admin\Desktop\Ekzamen-226\obj\Debug\Ekzamen_226.PayForm.resources
